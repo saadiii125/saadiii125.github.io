@@ -101,7 +101,7 @@ const Layout = ({ children, location }) => {
                 <Footer />
               </div>
             </StyledContent>
-          )}
+          )}🥚
         </div>
       )}
     />
