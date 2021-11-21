@@ -1,4 +1,4 @@
-<div align="center"> <img alt="Logo" src="https://github.com/danyalaliasghar/danyalaliasghar.github.io/blob/code/src/images/logo.png" width="100" /> </div> 
+<div align="center"> <img alt="Logo" src="https://github.com/danyalaliasghar/danyalaliasghar.github.io/src/images/logo.png" width="100" /> </div> 
 <h1 align="center"> Danyal Ali Asghar | Portfolio Website Version 1 </h1>
 ### TL;DR
 
