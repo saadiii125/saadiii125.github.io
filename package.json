@@ -1,11 +1,11 @@
 {
-  "name": "v2",
-  "description": "Personal Website V2",
+  "name": "v1",
+  "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Danyal Ali Asghar <danyal.aliasghar@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/danyalaliasghar/danyalaliasghar.github.io"
   },
   "keywords": [
     "gatsby"
@@ -19,7 +19,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-    // "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {
