@@ -2,7 +2,7 @@
 <h1 align="center"> Danyal Ali Asghar | Portfolio Website Version 1 </h1>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/DanyalAliAsghar/danyalaliasghar.github.io/blob/main/src/images/og.png" />
+  <img alt="Demo" src="https://github.com/DanyalAliAsghar/danyalaliasghar.github.io/blob/main/src/images/demo.png" />
 </div>
 
 ### TL;DR
