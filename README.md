@@ -1,5 +1,9 @@
 <div align="center"> <img alt="Logo" src="https://github.com/DanyalAliAsghar/danyalaliasghar.github.io/blob/main/src/images/logo.png" width="100" /> </div> 
 <h1 align="center"> Danyal Ali Asghar | Portfolio Website Version 1 </h1>
+
+<div align="center">
+  <img alt="Demo" src="https://github.com/DanyalAliAsghar/danyalaliasghar.github.io/blob/main/src/images/og.png" />
+</div>
 ### TL;DR
 
 Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
