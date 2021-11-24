@@ -1,7 +1,7 @@
 ---
 date: '2019-01-01'
 title: 'Data Analyst'
-company: 'Vizz Web Solutions - Rawalpindi'
+company: 'Vizz Web Solutions'
 range: 'January 2019 - February 2020'
 url: 'https://www.vizzwebsolutions.com/'
 ---
