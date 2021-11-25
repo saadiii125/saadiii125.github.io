@@ -1,9 +1,9 @@
 ---
 date: '2020-01-01'
 title: 'Full Stack Developer'
-company: 'Web Projects Sendirian Berhad (Sdn. Bhd.)'
-range: 'March 2020 - February 2021'
-url: 'https://malaysiadata.com/company/rplpwde/web-projects-sdn-bhd'
+company: 'Web Projects Sdn Bhd'
+range: 'March 2020 - February 2021 | Islamabad'
+url: 'http://www.dunbatu3.com/'
 ---
 
 - Developing modules, JS applications with ReactJS, i.e. N41 and Riyadh-ul-Jannah.
