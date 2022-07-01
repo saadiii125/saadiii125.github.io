@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://saadiii125.github.io/sitemap/sitemap-index.xml
-Host: https://saadiii125.github.io
+Sitemap: https://danyalaliasghar.github.io/sitemap/sitemap-index.xml
+Host: https://danyalaliasghar.github.io
