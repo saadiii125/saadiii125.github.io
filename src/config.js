@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Danyal Ali Asghar',
+  siteTitle: 'Saad-Ur-Rehman',
   siteDescription:
     'Danyal Ali Asghar is a Power BI developer at EY Ford Rhodes, who loves learning new things and helping tech beginners.',
   siteKeywords:
